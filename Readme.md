@@ -1,3 +1,3 @@
 Właściciele projektu:
 Mateusz Olszewski 181149
-Paweł Częczek ____
+Paweł Częczek 173855
